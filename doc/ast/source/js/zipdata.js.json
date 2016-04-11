@@ -1,0 +1,418 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "Literal",
+        "value": "use strict",
+        "raw": "'use strict'",
+        "range": [
+          2,
+          14
+        ],
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 0
+          },
+          "end": {
+            "line": 2,
+            "column": 12
+          }
+        }
+      },
+      "range": [
+        2,
+        15
+      ],
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 13
+        }
+      }
+    },
+    {
+      "type": "Identifier",
+      "declarations": [
+        {
+          "type": "VariableDeclarator",
+          "id": {
+            "type": "Identifier",
+            "name": "zip5data",
+            "range": [
+              25,
+              33
+            ],
+            "loc": {
+              "start": {
+                "line": 4,
+                "column": 6
+              },
+              "end": {
+                "line": 4,
+                "column": 14
+              }
+            }
+          },
+          "init": {
+            "type": "ArrayExpression",
+            "elements": [
+              {
+                "type": "Literal",
+                "value": 10101,
+                "raw": "10101",
+                "range": [
+                  38,
+                  43
+                ],
+                "loc": {
+                  "start": {
+                    "line": 4,
+                    "column": 19
+                  },
+                  "end": {
+                    "line": 4,
+                    "column": 24
+                  }
+                }
+              },
+              {
+                "type": "Literal",
+                "value": 81007,
+                "raw": "81007",
+                "range": [
+                  45,
+                  50
+                ],
+                "loc": {
+                  "start": {
+                    "line": 4,
+                    "column": 26
+                  },
+                  "end": {
+                    "line": 4,
+                    "column": 31
+                  }
+                }
+              },
+              {
+                "type": "Literal",
+                "value": 90210,
+                "raw": "90210",
+                "range": [
+                  52,
+                  57
+                ],
+                "loc": {
+                  "start": {
+                    "line": 4,
+                    "column": 33
+                  },
+                  "end": {
+                    "line": 4,
+                    "column": 38
+                  }
+                }
+              }
+            ],
+            "range": [
+              36,
+              59
+            ],
+            "loc": {
+              "start": {
+                "line": 4,
+                "column": 17
+              },
+              "end": {
+                "line": 4,
+                "column": 40
+              }
+            }
+          },
+          "range": [
+            25,
+            59
+          ],
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 6
+            },
+            "end": {
+              "line": 4,
+              "column": 40
+            }
+          }
+        }
+      ],
+      "kind": "const",
+      "range": [
+        19,
+        60
+      ],
+      "loc": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 41
+        }
+      },
+      "name": "_",
+      "leadingComments": [],
+      "trailingComments": []
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": null,
+      "specifiers": [
+        {
+          "type": "ExportSpecifier",
+          "exported": {
+            "type": "Identifier",
+            "name": "zip5data",
+            "range": [
+              72,
+              80
+            ],
+            "loc": {
+              "start": {
+                "line": 6,
+                "column": 8
+              },
+              "end": {
+                "line": 6,
+                "column": 16
+              }
+            }
+          },
+          "local": {
+            "type": "Identifier",
+            "name": "zip5data",
+            "range": [
+              72,
+              80
+            ],
+            "loc": {
+              "start": {
+                "line": 6,
+                "column": 8
+              },
+              "end": {
+                "line": 6,
+                "column": 16
+              }
+            }
+          },
+          "range": [
+            72,
+            80
+          ],
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 8
+            },
+            "end": {
+              "line": 6,
+              "column": 16
+            }
+          }
+        }
+      ],
+      "source": null,
+      "range": [
+        64,
+        82
+      ],
+      "loc": {
+        "start": {
+          "line": 6,
+          "column": 0
+        },
+        "end": {
+          "line": 6,
+          "column": 18
+        }
+      }
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "VariableDeclaration",
+        "declarations": [
+          {
+            "type": "VariableDeclarator",
+            "id": {
+              "type": "Identifier",
+              "name": "zip5data",
+              "range": [
+                25,
+                33
+              ],
+              "loc": {
+                "start": {
+                  "line": 4,
+                  "column": 6
+                },
+                "end": {
+                  "line": 4,
+                  "column": 14
+                }
+              }
+            },
+            "init": {
+              "type": "ArrayExpression",
+              "elements": [
+                {
+                  "type": "Literal",
+                  "value": 10101,
+                  "raw": "10101",
+                  "range": [
+                    38,
+                    43
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 4,
+                      "column": 19
+                    },
+                    "end": {
+                      "line": 4,
+                      "column": 24
+                    }
+                  }
+                },
+                {
+                  "type": "Literal",
+                  "value": 81007,
+                  "raw": "81007",
+                  "range": [
+                    45,
+                    50
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 4,
+                      "column": 26
+                    },
+                    "end": {
+                      "line": 4,
+                      "column": 31
+                    }
+                  }
+                },
+                {
+                  "type": "Literal",
+                  "value": 90210,
+                  "raw": "90210",
+                  "range": [
+                    52,
+                    57
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 4,
+                      "column": 33
+                    },
+                    "end": {
+                      "line": 4,
+                      "column": 38
+                    }
+                  }
+                }
+              ],
+              "range": [
+                36,
+                59
+              ],
+              "loc": {
+                "start": {
+                  "line": 4,
+                  "column": 17
+                },
+                "end": {
+                  "line": 4,
+                  "column": 40
+                }
+              }
+            },
+            "range": [
+              25,
+              59
+            ],
+            "loc": {
+              "start": {
+                "line": 4,
+                "column": 6
+              },
+              "end": {
+                "line": 4,
+                "column": 40
+              }
+            }
+          }
+        ],
+        "kind": "const",
+        "range": [
+          19,
+          60
+        ],
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 0
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        },
+        "leadingComments": [],
+        "trailingComments": []
+      },
+      "specifiers": null,
+      "source": null,
+      "range": [
+        64,
+        82
+      ],
+      "loc": {
+        "start": {
+          "line": 6,
+          "column": 0
+        },
+        "end": {
+          "line": 6,
+          "column": 18
+        }
+      },
+      "leadingComments": null
+    }
+  ],
+  "sourceType": "module",
+  "range": [
+    2,
+    82
+  ],
+  "loc": {
+    "start": {
+      "line": 2,
+      "column": 0
+    },
+    "end": {
+      "line": 6,
+      "column": 18
+    }
+  },
+  "comments": []
+}
